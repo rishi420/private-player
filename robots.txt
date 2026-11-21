@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rishi420.github.io/private-player/sitemap.xml
